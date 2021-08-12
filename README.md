@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoTeLa
 - 👀 I’m interested in ...learn and apply in personal blog
 - 🌱 I’m currently learning ...from 0
-- 💞️ I’m looking to collaborate on ...whatever I can
+- 💞️ I’m looking to collaborate on ...wathever I can
 - 📫 How to reach me ... here: https://joaquinteranlazaro.blogspot.com/
 
 <!---
